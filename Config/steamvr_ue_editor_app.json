@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.kleuren_meditatie_2-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "Z:/Documents/CaptainVR/wetransfer_bestanden_2022-10-28_0820/Groen_Blauw_Goed/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Kleuren_Meditatie_2-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
